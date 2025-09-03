@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>texture-agrumes.jpg</file>
+        <file>texture-ananas.jpg</file>
+        <file>texture-banane.jpg</file>
+        <file>texture-orange.jpg</file>
+        <file>texture-pomme.jpg</file>
+        <file>texture-sol.jpg</file>
+        <file>texture-fence.jpg</file>
+        <file>texture-vendeur-de-fruits.jpg</file>
+        <file>texture-ciel.jpg</file>
+        <file>main.jpg</file>
+        <file>panorama.jpg</file>
+        <file>spawner.jpg</file>
+        <file>main.png</file>
+    </qresource>
+</RCC>
